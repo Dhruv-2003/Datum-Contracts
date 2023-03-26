@@ -1,4 +1,5 @@
 ## DATUM
+
 Datum is a cross-chain permissionless oracle protocol for your smart contracts built on top of Optimism's newly created OP stack chains and Superchain.
 
 ## DATUM CONTRACTS
@@ -21,5 +22,5 @@ We are Supporting 5 types of Oracles currently :-
 
 The Data is obtained in a decentralized manner via Chainlink's Oracle network and UMA's system.
 
-More infrmation about the contracts and their usage can be found in our docs:
+More information about the contracts and their usage can be found in our docs:
 **https://datum.gitbook.io/datum/**
