@@ -1,5 +1,5 @@
 {
-  "name": "datum-package",
+  "name": "datum-contracts",
   "version": "1.0.0",
   "description": "Datum Cross Chain Oracle Contracts library",
   "files": [
