@@ -1,6 +1,6 @@
 {
   "name": "datum-contracts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Datum Cross Chain Oracle Contracts library",
   "files": [
     "**/*.sol"
