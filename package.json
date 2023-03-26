@@ -1,0 +1,23 @@
+{
+  "name": "datum-package",
+  "version": "1.0.0",
+  "description": "Datum Cross Chain Oracle Contracts library",
+  "files": [
+    "**/*.sol"
+  ],
+  "keywords": [
+    "oracle",
+    "ethereum",
+    "solidity",
+    "smartcontracts"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dhruv-2003/Datum-Contracts"
+  },
+  "author": "Dhruv-2003",
+  "license": "ISC",
+  "dependencies": {
+    "@chainlink/contracts": "^0.6.1"
+  }
+}
